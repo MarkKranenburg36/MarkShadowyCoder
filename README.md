@@ -1,5 +1,4 @@
 # Mark:
-Mark, AKA ShadowyCoder. <br>Studying Food Technologies, but spend more time buried in code.<br>Aspiring freelance webdeveloper. <br>Javascript wizard running a Bitcoin lightning node. 
 
 
 ## 🌐 Socials:

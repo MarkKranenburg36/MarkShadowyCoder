@@ -1,4 +1,4 @@
-# Mark:
+# Mark
 
 
 ## 🌐 Socials:
